@@ -1,0 +1,20 @@
+@import "utils/vars";
+@import "utils/reset";
+@import "utils/mixins";
+@import "components/section-header";
+@import "components/header";
+@import "components/section-features";
+@import "components/section-works";
+@import "components/section-team";
+@import "components/section-testimonials";
+@import "components/section-download";
+@import "components/footer";
+
+
+
+body {
+  font-family: $mainFont;
+}
+
+
+
